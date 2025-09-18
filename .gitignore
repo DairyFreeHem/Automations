@@ -1,0 +1,4 @@
+token.json
+google_apis/creds.json
+.venv/**
+**/__pycache__/**
